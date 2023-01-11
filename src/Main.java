@@ -9,7 +9,5 @@ public class Main {
         area.c = 9;
         area.area();
 
-
-
     }
 }
